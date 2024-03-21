@@ -1,12 +1,11 @@
 # React Portfolio
 
-This project is a personal portfolio built using React.js, Chakra UI for preset styles, and Formik for form handling. It features a responsive layout with a header containing links to different social media platforms and sections for showcasing different aspects of the portfolio.
+This project is a personal portfolio built using React.js, Chakra UI for preset styles, and Formik for form handling. It features a layout with a header containing links to different social media platforms and sections for showcasing different aspects of the portfolio.
 
 ## Features
 
 - **Chakra UI Preset Style**: The project utilizes Chakra UI to quickly style components, providing a sleek and modern design.
 - **Formik for Form Handling**: Formik is employed for handling forms within the portfolio, ensuring smooth user interaction and validation.
-- **Responsive Layout**: The portfolio is designed to be responsive, adapting gracefully to various screen sizes and devices.
 - **Header with Social Media Links**: The header includes links to different social media platforms, allowing visitors to connect with the portfolio owner easily.
 - **Three Screen Sections**:
   1. **Landing with Profile**: The landing page introduces the portfolio and showcases the profile of the owner.
